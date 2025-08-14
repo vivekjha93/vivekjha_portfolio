@@ -1,0 +1,27 @@
+LICENSE.txt
+===========
+
+Copyright (c) 2025 Mindcubed Technology
+All rights reserved.
+
+This website and its content, including but not limited to designs, code, images, branding, and written material, are the intellectual property of Mindcubed Technology unless otherwise stated.
+
+You are NOT permitted to:
+- Reproduce, duplicate, copy, or reuse any content or part of this website for commercial or non-commercial purposes without express written permission.
+- Use our designs, layouts, or codebase as templates or assets in your own projects.
+- Misrepresent or falsely associate with Mindcubed Technology or its services.
+
+You ARE permitted to:
+- View and interact with the website for personal and informational use.
+- Contact us for services or collaboration through the provided channels.
+
+All services delivered (e.g., websites, apps, digital marketing assets) to clients may include licensing terms specific to each project. These terms will be provided in the respective project agreement or contract.
+
+Third-party tools, libraries, and assets used in this website are licensed under their respective licenses.
+
+For questions or license-related inquiries, please contact:
+📧 contact@mindcubedtechnology.franchisefriend.in
+
+Thank you for respecting our work and creativity.
+
+- Mindcubed Technology
